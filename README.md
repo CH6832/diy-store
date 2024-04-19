@@ -62,4 +62,4 @@ C. Adding and deleting items from the shopping cart
 
 ## :bookmark: License
 
-[Attribution-ShareAlike 4.0 International](https://choosealicense.com/licenses/cc-by-sa-4.0/) :copyright: 2024 Christoph Hartleb
+This project is licensed under the terms of the [Creative Commons Attribution Share Alike 4.0 International](LICENSE).
