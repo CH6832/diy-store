@@ -21,6 +21,8 @@ It is a small projec to showcase following features when it comes to online shop
     .
     ├── images/ - visual studio code settings
     ├── src/ - code and data for tests
+    ├── CODE_OF_CONDUCT.md - project code of conduct
+    ├── COPYRIGHT - project copyright
     ├── LICENSE - license text
     └── README.md - relevant information about the project
 
@@ -64,10 +66,10 @@ C. Adding and deleting items from the shopping cart
 
 This project is licensed under the terms of the [Creative Commons Attribution Share Alike 4.0 International](LICENSE).
 
-## COPYRIGHT
+## :copyright: Copyright
 
 See the [COPYRIGHT](COPYRIGHT) file for copyright and licensing details.
 
-## Code of Conduct
+## :straight_ruler: Code of Conduct
 
 Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing to this project.
