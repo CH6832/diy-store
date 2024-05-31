@@ -21,7 +21,6 @@ It is a small projec to showcase following features when it comes to online shop
     .
     ├── images/ - visual studio code settings
     ├── src/ - code and data for tests
-    ├── CODE_OF_CONDUCT.md - project code of conduct
     ├── COPYRIGHT - project copyright
     ├── LICENSE - license text
     └── README.md - relevant information about the project
